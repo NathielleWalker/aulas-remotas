@@ -1,6 +1,6 @@
 # aulas-remotas
 
-## Exercícios de Python – Entrada de Dados e Estruturas Condicionais
+## Exercícios de Python
 
 ## Descrição
 
@@ -55,17 +55,19 @@ Olá, Ana, você é maior de idade.
 ### Exemplo de Saída
 Se o usuário digitar o número 7, a saída no console deve ser exatamente assim:
 Digite um número para ver a tabuada: 7
---- Tabuada do 7 ---
-7 x 1 = 7
-7 x 2 = 14
-7 x 3 = 21
-7 x 4 = 28
-7 x 5 = 35
-7 x 6 = 42
-7 x 7 = 49
-7 x 8 = 56
-7 x 9 = 63
-7 x 10 = 70
+
+```
+Tabuada do 7
+7 x 1  =  7
+7 x 2  =  14
+7 x 3  =  21
+7 x 4  =  28
+7 x 5  =  35
+7 x 6  =  42
+7 x 7  =  49
+7 x 8  =  56
+7 x 9  =  63
+7 x 10 =  70
 ```
 
--
+
