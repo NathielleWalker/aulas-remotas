@@ -10,5 +10,5 @@ for i in range(1, 11):
  resultado = numero * i
 
 #Imprima o resultado formatado
-#(Use f-strings para formatar a saída)
+#(Use f-strings para formatar a saida)
  print(f"{numero} x {i} = {resultado}")
